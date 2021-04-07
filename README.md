@@ -1,2 +1,3 @@
 # rstest
-test
+
+Open index.html in Chrome for best results
